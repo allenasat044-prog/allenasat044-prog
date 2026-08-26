@@ -1,7 +1,7 @@
 #  About Me:
 I’m AllenTheCat, a coding cat who loves building cool things.<br><br> I’m currently working on Unity game projects  <br> I’m looking to collaborate on game creation and open-source projects  <br> I’m looking for help with improving my game development skills  <br> I’m currently learning Kotlin and advanced Java  <br> Ask me about Unity, coding, and game mechanics  <br>⚡ Fun fact: I code better after cat naps 🐾
 
-![cool](https://raw.githubusercontent.com/allenasat044-prog/assets/main/gifs/cool.gif)
+![cool](https://raw.githubusercontent.com/allenasat044-prog/assets/main/gifs/bunny-girl.gif)
 ## 🌐 Socials:
 [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:allenasat044@gmail.com)
 
