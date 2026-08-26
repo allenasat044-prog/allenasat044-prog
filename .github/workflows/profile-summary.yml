@@ -1,0 +1,19 @@
+name: Generate GitHub Profile Summary Cards
+
+on:
+  schedule:
+    - cron: '0 0 * * *'   # runs once a day at midnight UTC
+  workflow_dispatch:        # lets you trigger it manually from the Actions tab
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - uses: vn7n24fzkq/github-profile-summary-cards@release
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          user: allenasat044-prog
+          theme: github_dark
+          card: grid,base,activity,repos,streak,languages,repos-per-language
