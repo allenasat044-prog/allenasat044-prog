@@ -1,23 +1,43 @@
-name: Generate GitHub Profile Summary Cards
+name: Generate Profile Summary Cards
 
 on:
   schedule:
     - cron: '0 0 * * *'
-  workflow_dispatch:
+  workflow_dispatch: {}
+  push:
+    branches:
+      - main
 
 jobs:
-  build:
+  build-cards:
     runs-on: ubuntu-latest
     permissions:
       contents: write
-    steps:
-      - uses: actions/checkout@v4
 
-      - uses: vn7n24fzkq/github-profile-summary-cards@release
+    steps:
+      - name: Checkout repo
+        uses: actions/checkout@v4
+        with:
+          persist-credentials: true
+
+      - name: Generate profile summary cards
+        uses: vn7n24fzkq/github-profile-summary-cards@release
         env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          GITHUB_TOKEN: ${{ secrets.GH_TOKEN }}
         with:
           USERNAME: allenasat044-prog
-          THEME: github_dark
-          AUTO_PUSH: true
-          BRANCH_NAME: profile-summary-cards-output
+          TEMPLATE: github_dark
+          OUTPUT_FOLDER: profile-summary-card-output
+
+      - name: Commit and push if the cards changed
+        run: |
+          git config --local user.email "actions@github.com"
+          git config --local user.name "GitHub Actions"
+          git add profile-summary-card-output/
+
+          if git diff --cached --quiet; then
+            echo "No changes in the generated cards — nothing to commit."
+          else
+            git commit -m "chore: update profile summary cards [skip ci]"
+            git push
+          fi
