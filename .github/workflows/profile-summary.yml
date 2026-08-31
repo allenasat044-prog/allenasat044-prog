@@ -29,14 +29,23 @@ jobs:
           TEMPLATE: github_dark
           OUTPUT_FOLDER: profile-summary-card-output
 
-      - name: Commit and push if the cards changed
+      - name: Cache-bust image URLs in README
+        run: |
+          TIMESTAMP=$(date +%s)
+
+          # Strip any existing ?t=... query param, then add a fresh one,
+          # for every .svg reference to files in profile-summary-card-output/
+          find . -maxdepth 3 -name "README.md" -print0 | xargs -0 sed -i -E \
+            "s#(profile-summary-card-output/[a-zA-Z0-9_/-]+\.svg)(\?t=[0-9]+)?#\1?t=${TIMESTAMP}#g"
+
+      - name: Commit and push if anything changed
         run: |
           git config --local user.email "actions@github.com"
           git config --local user.name "GitHub Actions"
-          git add profile-summary-card-output/
+          git add profile-summary-card-output/ README.md
 
           if git diff --cached --quiet; then
-            echo "No changes in the generated cards — nothing to commit."
+            echo "No changes — nothing to commit."
           else
             git commit -m "chore: update profile summary cards [skip ci]"
             git push
