@@ -1,6 +1,7 @@
 
-   ![Banner](https://raw.githubusercontent.com/allenasat044-prog/assets/main/gifs/Garfielftosh.jpeg)
-
+<p align="center">
+  <img src="https://raw.githubusercontent.com/allenasat044-prog/assets/main/gifs/carBall.gif" width="100%" height="250" alt="Banner">
+</p>
 
 
 
