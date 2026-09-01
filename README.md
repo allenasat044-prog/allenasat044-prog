@@ -1,3 +1,6 @@
+
+
+![Header](https://capsule-render.vercel.app/api?type=waving&color=0:1e3c72,100:2a5298&height=250&section=header&text=Hi%20There!%20I'm%20Shashank&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=35)
 #  About Me:
 I’m AllenTheCat, a coding cat who loves building cool things.<br><br> I’m currently working on Unity game projects  <br> I’m looking to collaborate on game creation and open-source projects  <br> I’m looking for help with improving my game development skills  <br> I’m currently learning Kotlin and advanced Java  <br> Ask me about Unity, coding, and game mechanics  <br>⚡ Fun fact: I code better after cat naps 🐾
 
