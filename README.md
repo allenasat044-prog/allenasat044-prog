@@ -7,8 +7,7 @@
 
 
 #  About Me:
-I’m AllenTheCat, a coding cat who loves building cool things.<br><br> I’m currently working on Unity game projects  <br>
-<br> UPDATE: I'm also working on a project (its a satellite image captioning😜)  <br>
+I’m AllenTheCat, a coding cat who loves building cool things.<br><br> I’m currently working on Unity game projects  <br> UPDATE: I'm also working on a project (its a satellite image captioning😜)  <br>
 I’m looking to collaborate on game creation and open-source projects  <br> I’m looking for help with improving my game development skills  <br> I’m currently learning Kotlin and advanced Java  <br> Ask me about Unity, coding, and game mechanics  <br>⚡ Fun fact: I code better after cat naps 🐾
 
 
