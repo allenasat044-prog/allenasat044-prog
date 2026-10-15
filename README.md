@@ -48,7 +48,6 @@ Iâ€™m looking to collaborate on game creation and open-source projects  <br> Iâ€
 
 
 ### Random Dev Quote
-### Random Dev Quote
 <p align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" width="100%" alt="Random dev quote">
 </p>
