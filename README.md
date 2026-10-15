@@ -48,14 +48,11 @@ Iâ€™m looking to collaborate on game creation and open-source projects  <br> Iâ€
 
 
 ### Random Dev Quote
-<table width="100%">
-  <tr>
-    <td width="100%" align="center">
-      <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" width="100%" alt="Random dev quote">
-    </td>
-  </tr>
-</table>
----
+### Random Dev Quote
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" width="100%" alt="Random dev quote">
+</p>
+
 <!--
 [![](https://komarev.com/ghpvc/?username=allenasat044-prog&label=Profile+views&color=blueviolet)](https://visitcount.itsvg.in)
 -->
