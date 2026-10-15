@@ -33,10 +33,19 @@ Iâ€™m looking to collaborate on game creation and open-source projects  <br> Iâ€
 </picture>
 
 <br>
+<table width="100%">
+  <tr>
+    <td width="50%" align="center">
+    <img src="https://raw.githubusercontent.com/allenasat044-prog/assets/main/gifs/carBall.gif" width="50%" alt="Street Fighter car">
+    </td>
+    <td width="50%" align="center">
+      <img src="https://raw.githubusercontent.com/allenasat044-prog/assets/main/gifs/deku.gif" width="100%" alt="Second gif">
+    </td>
+  </tr>
+</table>
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/allenasat044-prog/assets/main/gifs/carBall.gif" width="50%" alt="Street Fighter car">
-</p>
+
+
 
 ### Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
