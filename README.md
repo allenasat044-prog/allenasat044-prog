@@ -36,10 +36,10 @@ Iâ€™m looking to collaborate on game creation and open-source projects  <br> Iâ€
 <table width="100%">
   <tr>
     <td width="50%" align="center">
-    <img src="https://raw.githubusercontent.com/allenasat044-prog/assets/main/gifs/carBall.gif" width="50%" alt="Street Fighter car">
+     <img src="https://raw.githubusercontent.com/allenasat044-prog/assets/main/gifs/deku.gif" width="100%" alt="crazy deku ">
     </td>
     <td width="50%" align="center">
-      <img src="https://raw.githubusercontent.com/allenasat044-prog/assets/main/gifs/deku.gif" width="100%" alt="Second gif">
+ <img src="https://raw.githubusercontent.com/allenasat044-prog/assets/main/gifs/carBall.gif" width="100%" alt="Street Fighter car">
     </td>
   </tr>
 </table>
