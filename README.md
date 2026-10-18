@@ -54,6 +54,11 @@ Iâ€™m looking to collaborate on game creation and open-source projects  <br> Iâ€
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" width="100%" alt="Random dev quote">
 </p>
 
+<p align="center">
+  <img src="https://raw.githubusercontent.com/allenasat044-prog/assets/main/gifs/rain.gif" width="100%" height="250" alt="Banner">
+</p>
+
+
 <!--
 [![](https://komarev.com/ghpvc/?username=allenasat044-prog&label=Profile+views&color=blueviolet)](https://visitcount.itsvg.in)
 -->
