@@ -1,53 +1,72 @@
-
 <p align="center">
-  <img src="https://raw.githubusercontent.com/allenasat044-prog/assets/main/gifs/beauty.gif" width="100%" height="250" alt="Banner">
+  <img src="https://raw.githubusercontent.com/pankajt25/assets/main/or.gif" width="100%" height="250" alt="Banner">
 </p>
 
 
 
 
-#  About Me:
-<img align="right" src="https://raw.githubusercontent.com/allenasat044-prog/assets/main/gifs/deku.gif" width="300" alt="Gif">
+# About Me:
+<img align="right" src="https://raw.githubusercontent.com/pankajt25/assets/main/gifs/about.gif" width="300" alt="Gif">
 
-I’m AllenTheCat, a coding cat who loves building cool things.<br><br> I’m currently working on Unity game projects  <br> UPDATE: I'm also working on a project (its a satellite image captioning😜)..all most done  <br>
-I’m looking to collaborate on game creation and open-source projects  <br> I’m looking for help with improving my game development skills  <br> I’m currently learning Kotlin and advanced Java  <br> Ask me about Unity, coding, and game mechanics  <br>⚡ Fun fact: I code better after cat naps 🐾
+I'm Pankaj, a third-year B.Tech IT student who loves building things, breaking things and fixing things.<br><br> I'm currently working on projects across software design, theory of computation and physics <br> UPDATE: I'm also building a self-healing web scraper (WebGuard-scrapeverse) 🛡️ <br>
+I'm preparing for placements (product & service-based companies) <br> I'm looking to collaborate on open-source and web projects <br> I'm currently learning DSA, System Design, advanced React and web security <br> Ask me about React, Node.js, Python and web scraping <br>⚡ Fun fact: this README keeps working even when the GitHub stats API doesn't 😄
 <br clear="right">
 
-<!---![bunny girl](https://raw.githubusercontent.com/allenasat044-prog/assets/main/gifs/cool.gif)-->
-
-[![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:allenasat044@gmail.com)
+[![linkedin](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pankaj-tike-48ab02324)
+[![instagram](https://img.shields.io/badge/Instagram-E4405F?logo=instagram&logoColor=white)](https://www.instagram.com/pankajt_25/)
+![Open to opportunities](https://img.shields.io/badge/Open%20to-Opportunities-brightgreen)
 
 # 💻 Tech Stack:
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![Rust](https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white) ![Krita](https://img.shields.io/badge/Krita-203759?style=for-the-badge&logo=krita&logoColor=EEF37B) ![Blender](https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Sketch](https://img.shields.io/badge/Sketch-FFB387?style=for-the-badge&logo=sketch&logoColor=black) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Swift](https://img.shields.io/badge/swift-F54A2A?style=for-the-badge&logo=swift&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![VS Code](https://img.shields.io/badge/VS%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
+
+# 💼 Featured Projects
+<table width="100%">
+  <tr>
+    <td width="50%" align="center">
+      <h3>🛡️ WebGuard-scrapeverse</h3>
+      <p>Self-healing web scraper that detects site changes and auto-repairs itself via GitHub Actions.</p>
+      <a href="https://github.com/pankajt25/WebGuard-scrapeverse" target="_blank"><img src="https://img.shields.io/badge/Code-181717?style=flat&logo=github&logoColor=white" alt="Code" /></a>
+    </td>
+    <td width="50%" align="center">
+      <h3>🧠 Cerebro</h3>
+      <p>Automation and agent-based tooling project.</p>
+      <a href="https://github.com/pankajt25/Cerebro" target="_blank"><img src="https://img.shields.io/badge/Code-181717?style=flat&logo=github&logoColor=white" alt="Code" /></a>
+    </td>
+  </tr>
+</table>
 
 # GitHub Stats
-<!--
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="assets/contributions-dark.svg">
-  <img alt="Contribution graph" src="assets/contributions-light.svg" width="100%">
-</picture>
------>
 <br>
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="assets/stats-dark.svg">
-  <img alt="GitHub stats" src="assets/stats-light.svg" width="100%">
-</picture>
+<img alt="Contribution graph" src="./contributions-card.svg" width="100%">
 
 <br>
 <table width="100%">
   <tr>
     <td width="50%" align="center">
-     <img src="https://raw.githubusercontent.com/allenasat044-prog/assets/main/gifs/wow.gif" width="100%" alt="crazy deku ">
+      <img alt="GitHub stats" src="./stats-card.svg" width="100%">
     </td>
     <td width="50%" align="center">
- <img src="https://raw.githubusercontent.com/allenasat044-prog/assets/main/gifs/carBall.gif" width="100%" alt="Street Fighter car">
+      <img alt="Top languages" src="./languages-card.svg" width="100%">
     </td>
   </tr>
 </table>
 
+<br>
+<table width="100%">
+  <tr>
+    <td width="50%" align="center">
+      <img src="https://raw.githubusercontent.com/pankajt25/assets/main/gifs/gif1.gif" width="100%" alt="Gif 1">
+    </td>
+    <td width="50%" align="center">
+      <img src="https://raw.githubusercontent.com/pankajt25/assets/main/gifs/gif2.gif" width="100%" alt="Gif 2">
+    </td>
+  </tr>
+</table>
 
-
+<p align="center">
+  <img src="./dist/github-contribution-grid-snake.svg" width="100%" alt="Contribution Snake animation">
+</p>
 
 ### Random Dev Quote
 <p align="center">
@@ -55,10 +74,5 @@ I’m looking to collaborate on game creation and open-source projects  <br> I�
 </p>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/allenasat044-prog/assets/main/gifs/rain.gif" width="100%" height="250" alt="Banner">
+  <img src="https://raw.githubusercontent.com/pankajt25/assets/main/gifs/footer.gif" width="100%" height="250" alt="Banner">
 </p>
-
-
-<!--
-[![](https://komarev.com/ghpvc/?username=allenasat044-prog&label=Profile+views&color=blueviolet)](https://visitcount.itsvg.in)
--->
