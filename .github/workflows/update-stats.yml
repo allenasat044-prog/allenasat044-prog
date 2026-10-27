@@ -15,7 +15,7 @@ permissions:
 
 concurrency:
   group: update-stats
-  cancel-in-progress: true
+  cancel-in-progress: false
 
 jobs:
   update:
@@ -40,8 +40,22 @@ jobs:
           git add assets
           if git diff --cached --quiet; then
             echo "No changes."
-          else
-            git commit -m "chore: update contribution stats"
-            git pull --rebase origin main
-            git push
+            exit 0
           fi
+
+          git commit -m "chore: update contribution stats"
+
+          # SVGs are fully regenerated each run, so on conflict keep our fresh copy.
+          # In a rebase, "theirs" = the commit being replayed (our new commit).
+          for i in 1 2 3; do
+            if git pull --rebase -X theirs origin main && git push origin HEAD:main; then
+              echo "Pushed on attempt $i"
+              exit 0
+            fi
+            echo "Attempt $i failed, retrying..."
+            git rebase --abort 2>/dev/null || true
+            sleep 5
+          done
+
+          echo "Push failed after 3 attempts"
+          exit 1
