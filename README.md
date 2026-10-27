@@ -1,15 +1,25 @@
+
 <p align="center">
   <img src="https://raw.githubusercontent.com/allenasat044-prog/assets/main/gifs/beauty.gif" width="100%" height="250" alt="Banner">
 </p>
+
+
+
+
 #  About Me:
-<img align="right" src="https://raw.githubusercontent.com/allenasat044-prog/assets/main/gifs/deku.gif" width="300" alt="Gif">
-I’m AllenTheCat, a coding cat who loves building cool things.<br><br> I’m currently working on Unity game projects  <br> UPDATE: I'm also working on a project (its a satellite image captioning😜)..all most done  <br>
+<img align="right" src="https://raw.githubusercontent.com/allenasat044-prog/assets/main/gifs/deku.gif" width="200" alt="Gif">
+
+I’m AllenTheCat, a coding cat who loves building cool things.<br><br> I’m currently working on Unity game projects  <br> UPDATE: I'm also working on a project (its a satellite image captioning😜)  <br>
 I’m looking to collaborate on game creation and open-source projects  <br> I’m looking for help with improving my game development skills  <br> I’m currently learning Kotlin and advanced Java  <br> Ask me about Unity, coding, and game mechanics  <br>⚡ Fun fact: I code better after cat naps 🐾
 <br clear="right">
+
 <!---![bunny girl](https://raw.githubusercontent.com/allenasat044-prog/assets/main/gifs/cool.gif)-->
+
 [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:allenasat044@gmail.com)
+
 # 💻 Tech Stack:
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![Rust](https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white) ![Krita](https://img.shields.io/badge/Krita-203759?style=for-the-badge&logo=krita&logoColor=EEF37B) ![Blender](https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Sketch](https://img.shields.io/badge/Sketch-FFB387?style=for-the-badge&logo=sketch&logoColor=black) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Swift](https://img.shields.io/badge/swift-F54A2A?style=for-the-badge&logo=swift&logoColor=white)
+
 # GitHub Stats
 <!--
 <picture>
@@ -18,10 +28,12 @@ I’m looking to collaborate on game creation and open-source projects  <br> I�
 </picture>
 ----->
 <br>
+
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="assets/stats-dark.svg">
   <img alt="GitHub stats" src="assets/stats-light.svg" width="100%">
 </picture>
+
 <br>
 <table width="100%">
   <tr>
@@ -33,6 +45,10 @@ I’m looking to collaborate on game creation and open-source projects  <br> I�
     </td>
   </tr>
 </table>
+
+
+
+
 ### Random Dev Quote
 <p align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" width="100%" alt="Random dev quote">
@@ -40,6 +56,8 @@ I’m looking to collaborate on game creation and open-source projects  <br> I�
 <p align="center">
   <img src="https://raw.githubusercontent.com/allenasat044-prog/assets/main/gifs/rain.gif" width="100%" height="250" alt="Banner">
 </p>
+
+
 <!--
 [![](https://komarev.com/ghpvc/?username=allenasat044-prog&label=Profile+views&color=blueviolet)](https://visitcount.itsvg.in)
 -->
