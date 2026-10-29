@@ -41,7 +41,7 @@ Iâ€™m looking to collaborate on game creation and open-source projects  <br> Iâ€
      <img src="https://raw.githubusercontent.com/allenasat044-prog/assets/main/gifs/wow.gif" width="100%" alt="crazy deku ">
     </td>
     <td width="50%" align="center">
- <img src="https://raw.githubusercontent.com/allenasat044-prog/assets/main/gifs/sexy.gif" width="100%" alt="Street Fighter car">
+ <img src="https://raw.githubusercontent.com/allenasat044-prog/assets/main/gifs/sexy.gif" width="80%" alt="Street Fighter car">
     </td>
   </tr>
 </table>
@@ -54,7 +54,7 @@ Iâ€™m looking to collaborate on game creation and open-source projects  <br> Iâ€
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" width="100%" alt="Random dev quote">
 </p>
 <p align="center">
-  <img src="https://raw.githubusercontent.com/allenasat044-prog/assets/main/gifs/night.gif" width="100%" height="250" alt="Banner">
+  <img src="https://raw.githubusercontent.com/allenasat044-prog/assets/main/gifs/cold.gif" width="100%" height="250" alt="Banner">
 </p>
 
 
