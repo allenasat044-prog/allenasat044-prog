@@ -41,7 +41,7 @@ Iâ€™m looking to collaborate on game creation and open-source projects  <br> Iâ€
      <img src="https://raw.githubusercontent.com/allenasat044-prog/assets/main/gifs/wow.gif" width="100%" alt="crazy deku ">
     </td>
     <td width="50%" align="center">
- <img src="https://raw.githubusercontent.com/allenasat044-prog/assets/main/gifs/robo.gif" width="70%" alt="luffy">
+ <img src="https://raw.githubusercontent.com/allenasat044-prog/assets/main/gifs/robo.gif" width="80%" alt="luffy">
     </td>
   </tr>
 </table>
