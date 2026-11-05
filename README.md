@@ -5,7 +5,8 @@
 
 
 
-<img  src="https://raw.githubusercontent.com/allenasat044-prog/assets/main/gifs/pat .gif" width="70" alt="Gif">
+<img  src="https://raw.githubusercontent.com/allenasat044-prog/assets/main/gifs/pat .gif" width="60" alt="Gif">
+
 #  About Me:
 <img align="right" src="https://raw.githubusercontent.com/allenasat044-prog/assets/main/gifs/deku.gif" width="300" alt="Gif">
 
