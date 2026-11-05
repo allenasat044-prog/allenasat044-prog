@@ -9,8 +9,8 @@
 #  About Me:
 <img align="right" src="https://raw.githubusercontent.com/allenasat044-prog/assets/main/gifs/deku.gif" width="300" alt="Gif">
 
-I’m AllenTheCat, a coding cat who loves building cool things.<br><br> I’m currently working on Unity game projects  <br> UPDATE: I'm also working on a project (its a satellite image captioning😜)  <br>
-I’m looking to collaborate on game creation and open-source projects  <br> I’m looking for help with improving my game development skills  <br> I’m currently learning Kotlin and advanced Java  <br> Ask me about Unity, coding, and game mechanics  <br>⚡ Fun fact: I code better after cat naps 🐾
+I’m AllenTheCat, a coding cat who loves building cool things.<br><br> I’m currently working on Unity game projects (i guess it will take forever) <br> UPDATE: I'm also working on a project (its a satellite image captioning😜,  almost done)  <br>
+I’m looking to collaborate on open-source projects  <br> I'm also started to learn animation (wait i'll show u 😗)  <br> I’m currently learning Kotlin and advanced Java and DSA and c++ and many other things (meoww i'll definitely make it😾) <br> Ask me about Unity, coding, and game mechanics, animation  <br>⚡ Fun fact: I code better after cat naps, 🐾
 <br clear="right">
 
 <!---![bunny girl](https://raw.githubusercontent.com/allenasat044-prog/assets/main/gifs/cool.gif)-->
