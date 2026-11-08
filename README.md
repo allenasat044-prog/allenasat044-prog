@@ -1,6 +1,6 @@
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/allenasat044-prog/assets/main/gifs/mural.gif" width="100%" height="250" alt="Banner">
+  <img src="https://raw.githubusercontent.com/allenasat044-prog/assets/main/gifs/gh.gif" width="100%" height="250" alt="Banner">
 </p>
 
 
@@ -57,7 +57,7 @@ I’m looking to collaborate on open-source projects  <br> I'm also started to l
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" width="100%" alt="Random dev quote">
 </p>
 <p align="center">
-  <img src="https://raw.githubusercontent.com/allenasat044-prog/assets/main/gifs/gh.gif" width="100%" height="250" alt="Banner">
+  <img src="https://raw.githubusercontent.com/allenasat044-prog/assets/main/gifs/mural.gif" width="100%" height="250" alt="Banner">
 </p>
 
 
