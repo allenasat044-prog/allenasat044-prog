@@ -20,7 +20,7 @@ I’m looking to collaborate on open-source projects  <br> I'm also started to l
 
 
 
-<img align="right" src="https://raw.githubusercontent.com/allenasat044-prog/assets/main/gifs/tnt.gif" width="130" alt="Gif">
+<img align="right" src="https://raw.githubusercontent.com/allenasat044-prog/assets/main/gifs/tnt.gif" width="110" alt="Gif">
 <br>
 
 # GitHub Stats
